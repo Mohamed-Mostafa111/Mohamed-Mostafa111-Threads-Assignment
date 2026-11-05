@@ -1,0 +1,16 @@
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.exe
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.deps.json
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.runtimeconfig.json
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.dll
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.pdb
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfoInputs.cache
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfo.cs
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.csproj.CoreCompileInputs.cache
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.sourcelink.json
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.dll
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\refint\ViewsAndEmails.dll
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.pdb
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.genruntimeconfig.cache
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ref\ViewsAndEmails.dll
+D:\My Learning\BakEnd.NET\Simulation\Threads Assignments\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAnd.DCC8A48A.Up2Date
